@@ -1,16 +1,24 @@
-## Hi there 👋
+# Olá, eu sou o Lucas! 👋
 
-<!--
-**LucasSandes07/LucasSandes07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Tenho **26 anos** e atualmente estou em **transição de carreira**. Vim do Suporte técnico e agora estou trilhando minha jornada para me tornar um **dev de sucesso**!
 
-Here are some ideas to get you started:
+🎓 **Formação**
+- Cursando **Análise e Desenvolvimento de Sistemas** (2º período)
+- Em constante aprendizado e evolução
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💻 **Conhecimentos**
+- HTML
+- CSS
+- JavaScript
+- Python
+
+🚀 **Minha jornada**
+Atualmente faço parte da **Globotech**. Tem sido uma experiência desafiadora, já que estou no início da minha trajetória, mas também extremamente gratificante por fazer parte desse projeto e conhecer pessoas incríveis.
+
+🎸 **Sobre mim**
+- Gosto de tocar guitarra
+- Pratico esportes
+- Curto jogar no PC
+
+Estou sempre aberto a aprender, compartilhar conhecimento e fazer novas conexões. 
+
